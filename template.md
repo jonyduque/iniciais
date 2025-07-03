@@ -5,7 +5,7 @@
 **Réu(s):** [nome(s) completo(s)]
 
 ### 📄 RESUMO
-`[Resumo muito conciso da ação, indicando o tipo de ação, partes envolvidas, objeto da lide e pedidos principais. Descreva as alegações do autor em até 30 palavras. Os nomes das partes devem ficar em letras maiúsculas. Os pedidos devem ser apresentados em outro parágrafo iniciado por "Pedidos: " seguido da mesma forma de lista. Se forem indicados débitos específicos, contratos ou algo do tipo, devem constar]`
+```[Preencher com uma frase objetiva que identifique a natureza da ação e valores. Inclua dados identificativos, como n°. de contrato, n°. de nota fiscal, placa de veículo, se houver]```
 
 ---
 - [Se houver pedido de gratuidade de justiça: 📊 *Pedido de justiça gratuita*; senão: [ícone indicativo] **Recolhimento de custas**]
