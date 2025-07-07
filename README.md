@@ -442,7 +442,9 @@ A elaboração de uma petição inicial clara, técnica, objetiva e que atenda a
 A adoção sistemática de ferramentas como os presentes checklists, aliada à capacitação contínua dos profissionais responsáveis pela análise e processamento das petições iniciais, tem o potencial de transformar positivamente a cultura de trabalho nas novas Varas Cíveis de Guarulhos. Ao promover uma abordagem mais metódica, padronizada e menos suscetível a esquecimentos ou interpretações variáveis de requisitos básicos, estabelece-se um padrão de excelência e eficiência. Esta prática não apenas melhora os indicadores de produtividade e reduz o tempo de tramitação inicial dos feitos, mas também pode elevar a satisfação da equipe de trabalho e fortalecer a reputação da unidade judicial perante os advogados e a comunidade, servindo, potencialmente, como um modelo a ser observado.
 
 
-# 🏛️ **[Denominação dada pelo autor] - [número do processo]**
+## Template
+
+```# 🏛️ **[Denominação dada pelo autor] - [número do processo]**
 
 **Autor:** [nome completo]
 **Réu(s):** [nome(s) completo(s)]
@@ -635,4 +637,4 @@ Se não tiver sido formulado em formato de lista, transforme em uma lista alfab�
 - ⛔ Informações insuficientes para análise
 - 🔴 Crítico - Impede prosseguimento
 - 🟡 Atenção - Requer emenda
-- 🟢 Regular - Sem irregularidades
+- 🟢 Regular - Sem irregularidades```
